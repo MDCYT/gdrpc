@@ -8,7 +8,7 @@ namespace Config {
 
 constexpr int LATEST_VERSION = 4;
 
-constexpr auto DEFAULT_EXECUTABLE = "GeometryDash.exe";
+constexpr auto DEFAULT_EXECUTABLE = "MDC GDPS.exe";
 constexpr auto DEFAULT_URL = "http://mdcdevgd.000webhostapp.com";
 constexpr auto DEFAULT_PREFIX = "/";
 constexpr auto DEFAULT_APPLICATION_ID = "1065507439174238258";
